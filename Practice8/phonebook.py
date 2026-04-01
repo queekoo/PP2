@@ -60,7 +60,7 @@ def delete(value):
     conn.close()
 
 
-# 🔥 меню (оставь так — удобно для защиты)
+
 if __name__ == "__main__":
     while True:
         print("\n1. Search")
