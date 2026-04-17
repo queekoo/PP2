@@ -28,8 +28,8 @@ def insert_many():
     conn = connect()
     cur = conn.cursor()
 
-    names = ['Ali', 'Bob', 'Charlie']
-    phones = ['87001234567', 'abc', '87771234567']
+    names = input("Enter names (comma separated): ").split(',')
+    phones = input("Enter phones (comma separated): ").split(',')
 
     cur.execute("CALL insert_many_con(%s, %s)", (names, phones))
     conn.commit()

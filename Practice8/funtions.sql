@@ -2,7 +2,8 @@ create or replace function search_con(p text)
 returns  table (name varchar,phone varchar) as $$
 begin
     return query
-    select c.name ,c.phone
+    select c.name ,c.3
+    
     from contacts c
 where c.name ilike '%' || p || '%'
 or c.phone ilike '%' || p  || '%';
