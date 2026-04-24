@@ -1,7 +1,4 @@
-"""
-Music Player Logic
-Handles playlist management, audio playback, and UI rendering.
-"""
+
 
 import pygame
 import os

@@ -12,7 +12,7 @@ def main():
     """Main function to run Mickey's Clock application."""
     pygame.init()
 
-    # Window settings
+  
     WIDTH, HEIGHT = 500, 500
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Mickey's Clock")
@@ -20,7 +20,7 @@ def main():
     clock_app = MickeysClock(screen, WIDTH, HEIGHT)
     fps_clock = pygame.time.Clock()
 
-    # Main loop
+    
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -34,7 +34,7 @@ def main():
         clock_app.update()
         clock_app.draw()
         pygame.display.flip()
-        fps_clock.tick(1)  # Update once per second
+        fps_clock.tick(1)  
 
 
 if __name__ == "__main__":

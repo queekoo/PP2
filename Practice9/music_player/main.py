@@ -1,14 +1,3 @@
-"""
-Music Player with Keyboard Controller - Main Entry Point
-
-
-Controls:
-  P = Play
-  S = Stop
-  N = Next track
-  B = Previous (Back) track
-  Q = Quit
-"""
 
 import pygame
 import sys
