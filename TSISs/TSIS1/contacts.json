@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Ali ",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice@gmail.com",
+    "birthday": "1995-03-15",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "77011234567",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob@work.com",
+    "birthday": "1988-07-22",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "77029876543",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "Carol White",
+    "email": "carol@gmail.com",
+    "birthday": "2000-11-05",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "77031112233",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Charlie",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "David Brown",
+    "email": "david@yahoo.com",
+    "birthday": "1992-06-30",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "77042223344",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Emma Davis",
+    "email": "emma@company.com",
+    "birthday": "1985-01-18",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "77053334455",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "Frank Miller",
+    "email": "frank@gmail.com",
+    "birthday": "1998-09-10",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "77064445566",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Kanshat",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Olzhas",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Sabina",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Zarina",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": []
+  }
+]
